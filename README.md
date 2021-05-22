@@ -36,6 +36,11 @@ Solve the problems presented in whatever way you deem most appropriate and in ke
     * Do not use any JS plugins. Same reason as above.
     * Use Sass for any styles.
 
+### Preview of Exercise 2
+
+[
+![image](https://user-images.githubusercontent.com/59505949/119233523-3b7c3500-bb47-11eb-9730-2f803eca91bf.png)
+](url)
 #### Fixes
 1. Break the contents of the HTML file into pieces that follow a logical separation of concerns for the browser.
 2. Fix any invalid HTML
