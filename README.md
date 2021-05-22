@@ -21,6 +21,10 @@
 
 ***
 
+[
+![image](https://user-images.githubusercontent.com/59505949/119233468-d88a9e00-bb46-11eb-9229-7f98c1cf9869.png)
+](url)
+
 ## Exercise 2: Task Tracker Enhancement
 [Task Tracker](./exercise-2/index.html)
 
